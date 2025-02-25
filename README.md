@@ -11,7 +11,7 @@ Information about the code, how to install it, setting a configuration to use it
 
 ```
 git clone git@github.com:jaimeleonh/nba_template.git
-cd dqcd
+cd nba_template
 git clone https://gitlab.cern.ch/cms-phys-ciemat/nanoaod_base_analysis.git --branch py3 nanoaod_base_analysis/
 source setup.sh
 law index --verbose #to do only after installation or including a new task
